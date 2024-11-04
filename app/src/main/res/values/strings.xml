@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">practicomovil4</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="phone_labels">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Celular</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string-array name="emailLabelSpinner">
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Universidad</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

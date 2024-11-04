@@ -1,0 +1,6 @@
+<!-- res/drawable/ic_placeholder.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size android:width="100dp" android:height="100dp"/>
+    <solid android:color="#CCCCCC"/> <!-- Color gris claro -->
+</shape>
